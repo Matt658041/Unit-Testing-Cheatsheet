@@ -8,7 +8,7 @@
 import { AppWithRoutes } from "./components/6Router/AppWithRoutes";
 
 function App() {
-
+// simple comment added for new branch pull request
 
   return (
     <>
